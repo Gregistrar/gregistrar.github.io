@@ -31,6 +31,9 @@ These are the skills I'm learning currently and how far I've advanced in each of
     5. Google sheets and docs
     6. MS Excel
 
+
+# I'm keeping my markdown quick commands below for now, _at least_ until I am better with them. :fire:
+
 ```markdown
 Syntax highlighted code block
 
@@ -51,9 +54,13 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+
+
 ### Jekyll Themes
 
 Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Gregistrar/gregistrar.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+
+
 
 ### Support or Contact
 
