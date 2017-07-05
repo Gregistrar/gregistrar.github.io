@@ -12,7 +12,10 @@ These are the skills I'm learning currently and how far I've advanced in each of
     1. 8 hour course on SQL @ General Assembly
     2. Basic skills including selecting data sets, joining tables, and coding unique lines that pull specific data requests.
 2. Python
-    1. Stuff
+    1. Basic database setup
+    2. Basic commands
+    3. Using SQL in combination with Python code
+    4. LearnPythontheHardWay.com
 
 ```markdown
 Syntax highlighted code block
