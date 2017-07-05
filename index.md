@@ -9,10 +9,10 @@ I also want to note that I will be working on a long-term project on political d
 These are the skills I'm learning currently and how far I've advanced in each of those:
 
 1. SQL
-  1. 8 hour course on SQL @ General Assembly
-  2. Basic skills including selecting data sets, joining tables, and coding unique lines that pull specific data requests.
+    1. 8 hour course on SQL @ General Assembly
+    2. Basic skills including selecting data sets, joining tables, and coding unique lines that pull specific data requests.
 2. Python
-  1. Stuff
+    1. Stuff
 
 ```markdown
 Syntax highlighted code block
