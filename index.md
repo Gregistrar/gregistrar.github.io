@@ -4,7 +4,7 @@ My first project will use data from [the NHL](https://www.nhl.com/) to create un
 
 I also want to note that I will be working on a long-term project on political data. The thesis of this data is yet to be determined, but I am looking into water scarcity data as well as voting data.
 
-### Skills
+## Skills
 
 These are the skills I'm learning currently and how far I've advanced in each of those:
 
@@ -32,7 +32,7 @@ These are the skills I'm learning currently and how far I've advanced in each of
     6. MS Excel
 
 
-### I'm keeping my markdown quick commands below for now, _at least_ until I am better with them. :fire:
+#### I'm keeping my markdown quick commands below for now, _at least_ until I am better with them. :fire:
 
 ```markdown
 Syntax highlighted code block
