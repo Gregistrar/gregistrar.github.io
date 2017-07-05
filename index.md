@@ -4,9 +4,15 @@ My first project will use data from [the NHL](https://www.nhl.com/) to create un
 
 I also want to note that I will be working on a long-term project on political data. The thesis of this data is yet to be determined, but I am looking into water scarcity data as well as voting data.
 
-### Markdown
+### Skills
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+These are the skills I'm learning currently and how far I've advanced in each of those:
+
+1. SQL
+  1. 8 hour course on SQL @ General Assembly
+  2. Basic skills including selecting data sets, joining tables, and coding unique lines that pull specific data requests.
+2. Python
+  1. Stuff
 
 ```markdown
 Syntax highlighted code block
