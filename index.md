@@ -18,6 +18,7 @@ These are the skills I'm learning currently and how far I've advanced in each of
     3. Using SQL in combination with Python code
     4. LearnPythontheHardWay.com
     5. Pycharm
+    6. Pandas
 3. GitHub
     1. Repository
     2. Github pages
