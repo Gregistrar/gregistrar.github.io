@@ -1,8 +1,8 @@
-## Welcome to GitHub Pages
+## Welcome to my GitHub Page
 
-You can use the [editor on GitHub](https://github.com/Gregistrar/gregistrar.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+My first project will use data from [the NHL](https://www.nhl.com/) to create unique visualizations and track advanced stats.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I also want to note that I will be working on a long-term project on political data. The thesis of this data is yet to be determined, but I am looking into water scarcity data as well as voting data.
 
 ### Markdown
 
