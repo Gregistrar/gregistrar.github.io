@@ -32,7 +32,7 @@ These are the skills I'm learning currently and how far I've advanced in each of
     6. MS Excel
 
 
-# I'm keeping my markdown quick commands below for now, _at least_ until I am better with them. :fire:
+### I'm keeping my markdown quick commands below for now, _at least_ until I am better with them. :fire:
 
 ```markdown
 Syntax highlighted code block
