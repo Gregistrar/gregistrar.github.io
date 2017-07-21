@@ -15,10 +15,21 @@ These are the skills I'm learning currently and how far I've advanced in each of
 2. Python
     1. Basic database setup
     2. Basic commands
-    3. Using SQL in combination with Python code
+    3. Using SQL in combination with Python code - SQLalchemy
     4. LearnPythontheHardWay.com
     5. Pycharm
     6. Pandas
+    7. Data Science Essential Training - lynda.com
+        a. Data Munging
+        b. Data Visualization
+        c. Math and Statistics
+        d. Dimensionality Reduction
+        e. Outlier Analysis
+        f. Cluster Analysis
+        g. Network Analysis
+        h. Algorithmic Learning
+        i. Web-based Data Viz with Plotly
+        j. Web Scraping with Beautiful Soup
 3. GitHub
     1. Repository
     2. Github pages
