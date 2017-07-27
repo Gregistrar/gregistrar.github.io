@@ -20,7 +20,7 @@ These are the skills I'm learning currently and how far I've advanced in each of
     5. Pycharm
     6. Pandas
     7. Data Science Essential Training - lynda.com
-        a. Data Munging \n
+        a. Data Munging
         b. Data Visualization
         c. Math and Statistics
         d. Dimensionality Reduction
