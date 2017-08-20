@@ -19,7 +19,8 @@ These are the skills I'm learning currently and how far I've advanced in each of
     4. LearnPythontheHardWay.com
     5. Pycharm
     6. Pandas
-    7. Data Science Essential Training - lynda.com
+    7. Numpy
+    8. Data Science Essential Training - lynda.com
         a. Data Munging
         b. Data Visualization
         c. Math and Statistics
@@ -40,6 +41,10 @@ These are the skills I'm learning currently and how far I've advanced in each of
     2. DB Visualizer
     3. AWS
     4. Powershell on Windows
+        a. pip install
+        b. conda
+        c. choco
+        d. conemu
     5. Google sheets and docs
     6. MS Excel
 
